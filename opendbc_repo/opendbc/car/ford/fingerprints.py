@@ -53,6 +53,7 @@ FW_VERSIONS = {
     ],
     (Ecu.abs, 0x760, None): [
       b'PZ1C-2D053-EJ\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00',
+      b'PZ1C-2D053-EM\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00',
     ],
     (Ecu.fwdRadar, 0x764, None): [
       b'ML3T-14D049-AL\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00',
